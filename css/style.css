@@ -1,0 +1,41 @@
+img#profil {
+	width: 320px;
+	height: 320px;
+	border-radius: 50%;
+	transition: 6s;
+}
+
+div#profil {
+	text-align: center;
+}
+
+h1#name {
+	font-family: 'Times New Roman', Times, serif;
+	transition: 6s;
+	text-align: center;
+	padding-top: 50px;
+}
+
+body {
+	background-image: url(../img/Background-website-01.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+}
+
+#txt {
+	padding: 30px;
+	text-align: center;
+}
+
+.frame {
+	width: 320px;
+	height: 320px;
+	border-radius: 600px;
+	border: 6px solid #ccc;
+	background: #eee;
+	margin: auto;
+}
+img {
+	width: 100%;
+	height: 100%;
+}
